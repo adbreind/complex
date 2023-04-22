@@ -1,0 +1,9 @@
+name: complex
+channels:
+  - conda-forge
+dependencies:
+  - python<3.10
+  - jupyterlab
+  - numpy
+  - networkx
+  - seaborn
